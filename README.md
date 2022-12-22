@@ -33,3 +33,4 @@ else;
    done;
 fi;
 ```
+![graph_1](https://user-images.githubusercontent.com/116432612/209237041-d0311fce-077b-4d8b-a3a7-630f92c873b4.png)
