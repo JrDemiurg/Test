@@ -9,18 +9,40 @@
 одним из компонентов этой смеси является фруктоза.
 
 Результат формализации в редакторе KBE:
-![image](https://user-images.githubusercontent.com/116432612/221895136-f525e9ff-f561-4706-8246-87a13f5573d7.png)
-
-
+>![8](https://user-images.githubusercontent.com/116432612/228366119-acb5db6b-eca4-4d4e-8ed1-7f05686c3dab.png)
 1. Фруктоза была открыта Дюбрунфо в 1847 г. в ходе сравнительного исследования
 молочнокислого и спиртового брожения сахара, полученного из сахарозы сахарного тростника.
->![image](https://user-images.githubusercontent.com/116432612/221895378-6f11abfa-4c92-4046-a036-9f56164ab68e.png)
+>![9](https://user-images.githubusercontent.com/116432612/228366564-a958416b-595c-46d4-b88f-9b048f4dd300.png)
 
 2.Дюбрунфо обнаружил, что в ходе молочнокислого брожения в ферментационной жидкости
 присутствует сахар, угол вращения которого отличается от уже известной в то время глюкозы. 
->![image](https://user-images.githubusercontent.com/116432612/221895588-1cd0c8a8-0d25-4a7e-821a-a7b896dd6328.png)
+>![image](https://user-images.githubusercontent.com/116432612/228366694-b1a10907-0316-49e1-8dcf-57e337865a45.png)
 
 3.В 1861 году Бутлеров синтезировал смесь сахаров — «формозу» — конденсацией
 формальдегида (муравьиного альдегида) в присутствии катализаторов: Ba(OH)2 и Ca(OH)2,
 одним из компонентов этой смеси является фруктоза.
 >![image](https://user-images.githubusercontent.com/116432612/221895742-e93d32d4-db28-4a72-af47-91bc1dd59ad8.png)
+# Практическое задание №2
+# Вариант 20, задание 14
+>![ysl](https://user-images.githubusercontent.com/116432612/228363949-5d532a01-2583-4b3b-9410-b35bc9f55ca0.png)
+## Результат формализации в редакторе KBE:
+>![6](https://user-images.githubusercontent.com/116432612/228363550-d7c14af8-6001-45ad-b3f1-412f7a3112f1.png)
+## Разобьём формулу на:
+- a = 1 + cos(a)
+- b = 1 - cos(a)
+- c = √sin2(a)
+- d = c * √a
+- d = √b * a
+## Тогда:
+- a = 1 + cos(a)
+>![1](https://user-images.githubusercontent.com/116432612/228364688-dd66edd1-7b35-453d-8123-4163fb4dc2fa.png)
+- b = 1 - cos(a)
+>![2](https://user-images.githubusercontent.com/116432612/228364725-aea7671e-9643-4c2d-8e6a-dd80e8b7dbac.png)
+- c = √sin2(a)
+>![3](https://user-images.githubusercontent.com/116432612/228364752-fce0cd85-7557-4a09-a772-4ca7e34e9e38.png)
+- d = c * √a
+>![4](https://user-images.githubusercontent.com/116432612/228364794-4236d13a-cfb3-4456-a0bd-3ad4447f9fef.png)
+- d = √b * a
+>![7](https://user-images.githubusercontent.com/116432612/228365736-8b32f994-05d3-4688-bb17-84ca4d39a41d.png)
+## Вывод:
+В ходе формализации данного фрагмента текста ознакомился с основами формализации знаний, изучил SCg (классы, сущности, ролевые и неролевые отношения).
